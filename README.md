@@ -14,7 +14,8 @@ Upon the first run of the test suite you should see:
 
 ```
 Failures:
-
+greeting ="Hello World"
+Learn
   1) ./variable.rb defined a local variable called greeting and set it equal to 'Hello World'
      Failure/Error: greeting = get_variable_from_file('./variable.rb', "greeting")
      NameError:
